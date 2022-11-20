@@ -1,0 +1,35 @@
+~/graalvm-ce-java11-22.3.0/bin
+
+export PATH=/path/to/graalvm-ce-java11-22.3.0/bin:$PATH
+  
+export JAVA_HOME=/path/to/graalvm-ce-java11-22.3.0/bin
+
+
+========================================================
+windows
+setx /M PATH "C:\Progra~1\Java\graalvm-ce-java11-windows-amd64-20.2.0\bin;%PATH%"
+
+
+setx /M JAVA_HOME "C:\Progra~1\Java\graalvm-ce-java11-windows-amd64-20.2.0"
+
+=======================================================
+comandos maven
+mvn install quarkus:dev
+
+
+=======================================================
+variável de ambiente JAVA_HOME
+
+retirei:
+C:\Progra~1\Java\graalvm-ce-java11-windows-amd64-20.2.0
+
+coloquei 
+C:\graalvm-ce-java11-windows-amd64-20.2.0\graalvm-ce-java11-20.2.0
+=======================================================
+gu install native-image
+=======================================================
+EXECUTAR NO POWER SHELL
+cmd /c 'call "C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Auxiliary\Build\vcvars64.bat" && mvn package -Pnative'
+=======================================================
+NA PASTA TARGET
+.\bitcoin-1.0.0-SNAPSHOT-runner.exe

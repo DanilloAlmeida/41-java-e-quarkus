@@ -5,3 +5,9 @@ export PATH=/path/to/graalvm-ce-java11-22.3.0/bin:$PATH
 export JAVA_HOME=/path/to/graalvm-ce-java11-22.3.0/bin
 
 
+========================================================
+windows
+setx /M PATH "C:\Progra~1\Java\graalvm-ce-java11-windows-amd64-20.2.0\bin;%PATH%"
+
+
+setx /M JAVA_HOME "C:\Progra~1\Java\graalvm-ce-java11-windows-amd64-20.2.0"
