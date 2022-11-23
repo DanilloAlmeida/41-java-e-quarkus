@@ -33,3 +33,19 @@ cmd /c 'call "C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\
 =======================================================
 NA PASTA TARGET
 .\bitcoin-1.0.0-SNAPSHOT-runner.exe
+----------------------------------------
+tirei do POM
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+=============================================================
+FÓRUM DO CURSO:
+https://unibb.alura.com.br/forum/curso-java-supersonico-subatomico-quarkus/novo
+=============================================================
+EDIÇÃO DO POM
+TIREI
+<artifactId>quarkus-resteasy-reactive</artifactId>
+COLOQUEI
+<artifactId>quarkus-resteasy</artifactId>

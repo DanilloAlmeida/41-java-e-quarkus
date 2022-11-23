@@ -1,2 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.util.List"/>
+    <fullyQualifiedTypeName name="org.eclipse.microprofile.rest.client.inject.RegisterRestClient"/>
+    <fullyQualifiedTypeName name="com.oracle.svm.core.annotate.Inject"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.Path"/>
+    <fullyQualifiedTypeName name="javax.inject.Inject"/>
+    <fullyQualifiedTypeName name="br.com.alura.service.BitcoinService"/>
+    <fullyQualifiedTypeName name="org.eclipse.microprofile.rest.client.inject.RestClient"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="br.com.alura.model.Bitcoin"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.core.MediaType"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.GET"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.Produces"/>
+</qualifiedTypeNameHistroy>

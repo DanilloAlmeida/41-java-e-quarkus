@@ -2820,3 +2820,393 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact xmlpull:xmlpu
 2022-11-20 05:50:42,542 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2022-11-20 05:50:42,543 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-11-20 05:50:42,543 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Google Drive\04 - Estudo\Alura\41-java-e-quarkus\bitcoin\src\test\resources
+2022-11-22 05:15:36,151 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-11-22 05:15:49,916 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 05:15:49,924 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-11-22 05:15:54,258 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 05:15:54,258 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Google Drive\04 - Estudo\Alura\41-java-e-quarkus\bitcoin\src\test\resources
+2022-11-22 05:24:55,119 [Worker-13: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura:bitcoin:1.0.0-SNAPSHOT @ D:\Google Drive\04 - Estudo\Alura\41-java-e-quarkus\bitcoin\pom.xml.
+2022-11-22 05:25:58,002 [Worker-25: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura:bitcoin:1.0.0-SNAPSHOT @ D:\Google Drive\04 - Estudo\Alura\41-java-e-quarkus\bitcoin\pom.xml.
+2022-11-22 05:26:02,893 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 05:26:02,894 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-22 05:26:02,895 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 05:26:02,895 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Google Drive\04 - Estudo\Alura\41-java-e-quarkus\bitcoin\src\test\resources
+2022-11-22 05:26:04,646 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 05:26:04,648 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-11-22 05:26:04,658 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 05:26:04,658 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Google Drive\04 - Estudo\Alura\41-java-e-quarkus\bitcoin\src\test\resources
+2022-11-22 05:26:04,981 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-rest-client/2.14.1.Final/quarkus-rest-client-2.14.1.Final-sources.jar
+2022-11-22 05:26:05,320 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-rest-client/2.14.1.Final/quarkus-rest-client-2.14.1.Final-sources.jar
+2022-11-22 05:26:06,151 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.quarkus:quarkus-rest-client:2.14.1.Final
+2022-11-22 05:26:06,822 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-resteasy-common/2.14.1.Final/quarkus-resteasy-common-2.14.1.Final-sources.jar
+2022-11-22 05:26:07,172 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-resteasy-common/2.14.1.Final/quarkus-resteasy-common-2.14.1.Final-sources.jar
+2022-11-22 05:26:07,784 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.quarkus:quarkus-resteasy-common:2.14.1.Final
+2022-11-22 05:26:08,466 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/resteasy/resteasy-core/4.7.7.Final/resteasy-core-4.7.7.Final-sources.jar
+2022-11-22 05:26:09,210 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/resteasy/resteasy-core/4.7.7.Final/resteasy-core-4.7.7.Final-sources.jar
+2022-11-22 05:26:10,673 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jboss.resteasy:resteasy-core:4.7.7.Final
+2022-11-22 05:26:11,342 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/resteasy/resteasy-core-spi/4.7.7.Final/resteasy-core-spi-4.7.7.Final-sources.jar
+2022-11-22 05:26:11,773 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/resteasy/resteasy-core-spi/4.7.7.Final/resteasy-core-spi-4.7.7.Final-sources.jar
+2022-11-22 05:26:13,071 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jboss.resteasy:resteasy-core-spi:4.7.7.Final
+2022-11-22 05:26:13,753 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/validation/jakarta.validation-api/2.0.2/jakarta.validation-api-2.0.2-sources.jar
+2022-11-22 05:26:14,167 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/validation/jakarta.validation-api/2.0.2/jakarta.validation-api-2.0.2-sources.jar
+2022-11-22 05:26:16,022 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.validation:jakarta.validation-api:2.0.2
+2022-11-22 05:26:16,645 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/ibm/async/asyncutil/0.1.0/asyncutil-0.1.0-sources.jar
+2022-11-22 05:26:17,014 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/ibm/async/asyncutil/0.1.0/asyncutil-0.1.0-sources.jar
+2022-11-22 05:26:18,378 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.ibm.async:asyncutil:0.1.0
+2022-11-22 05:26:19,049 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/activation/jakarta.activation/1.2.1/jakarta.activation-1.2.1-sources.jar
+2022-11-22 05:26:19,401 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/activation/jakarta.activation/1.2.1/jakarta.activation-1.2.1-sources.jar
+2022-11-22 05:26:20,308 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.activation:jakarta.activation:1.2.1
+2022-11-22 05:26:20,979 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-apache-httpclient/2.14.1.Final/quarkus-apache-httpclient-2.14.1.Final-sources.jar
+2022-11-22 05:26:21,566 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-apache-httpclient/2.14.1.Final/quarkus-apache-httpclient-2.14.1.Final-sources.jar
+2022-11-22 05:26:22,115 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.quarkus:quarkus-apache-httpclient:2.14.1.Final
+2022-11-22 05:26:22,786 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-rest-client-config/2.14.1.Final/quarkus-rest-client-config-2.14.1.Final-sources.jar
+2022-11-22 05:26:23,122 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-rest-client-config/2.14.1.Final/quarkus-rest-client-config-2.14.1.Final-sources.jar
+2022-11-22 05:26:23,688 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.quarkus:quarkus-rest-client-config:2.14.1.Final
+2022-11-22 05:26:24,348 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/microprofile/rest/client/microprofile-rest-client-api/2.0/microprofile-rest-client-api-2.0-sources.jar
+2022-11-22 05:26:24,689 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/microprofile/rest/client/microprofile-rest-client-api/2.0/microprofile-rest-client-api-2.0-sources.jar
+2022-11-22 05:26:25,438 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.microprofile.rest.client:microprofile-rest-client-api:2.0
+2022-11-22 05:26:26,057 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/resteasy/resteasy-client-microprofile/4.7.7.Final/resteasy-client-microprofile-4.7.7.Final-sources.jar
+2022-11-22 05:26:26,373 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/resteasy/resteasy-client-microprofile/4.7.7.Final/resteasy-client-microprofile-4.7.7.Final-sources.jar
+2022-11-22 05:26:26,908 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jboss.resteasy:resteasy-client-microprofile:4.7.7.Final
+2022-11-22 05:26:27,509 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/resteasy/resteasy-client-microprofile-base/4.7.7.Final/resteasy-client-microprofile-base-4.7.7.Final-sources.jar
+2022-11-22 05:26:27,824 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/resteasy/resteasy-client-microprofile-base/4.7.7.Final/resteasy-client-microprofile-base-4.7.7.Final-sources.jar
+2022-11-22 05:26:28,731 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jboss.resteasy:resteasy-client-microprofile-base:4.7.7.Final
+2022-11-22 05:26:29,437 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/resteasy/resteasy-client/4.7.7.Final/resteasy-client-4.7.7.Final-sources.jar
+2022-11-22 05:26:29,876 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/resteasy/resteasy-client/4.7.7.Final/resteasy-client-4.7.7.Final-sources.jar
+2022-11-22 05:26:31,266 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jboss.resteasy:resteasy-client:4.7.7.Final
+2022-11-22 05:26:31,914 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/resteasy/resteasy-client-api/4.7.7.Final/resteasy-client-api-4.7.7.Final-sources.jar
+2022-11-22 05:26:32,243 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/resteasy/resteasy-client-api/4.7.7.Final/resteasy-client-api-4.7.7.Final-sources.jar
+2022-11-22 05:26:32,940 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jboss.resteasy:resteasy-client-api:4.7.7.Final
+2022-11-22 05:26:33,549 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/resteasy/resteasy-cdi/4.7.7.Final/resteasy-cdi-4.7.7.Final-sources.jar
+2022-11-22 05:26:33,859 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/resteasy/resteasy-cdi/4.7.7.Final/resteasy-cdi-4.7.7.Final-sources.jar
+2022-11-22 05:26:34,482 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jboss.resteasy:resteasy-cdi:4.7.7.Final
+2022-11-22 05:26:35,155 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpasyncclient/4.1.5/httpasyncclient-4.1.5-sources.jar
+2022-11-22 05:26:35,668 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpasyncclient/4.1.5/httpasyncclient-4.1.5-sources.jar
+2022-11-22 05:26:37,304 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.httpcomponents:httpasyncclient:4.1.5
+2022-11-22 05:26:37,968 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore-nio/4.4.15/httpcore-nio-4.4.15-sources.jar
+2022-11-22 05:26:38,683 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore-nio/4.4.15/httpcore-nio-4.4.15-sources.jar
+2022-11-22 05:26:40,092 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.httpcomponents:httpcore-nio:4.4.15
+2022-11-22 05:26:40,745 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-resteasy-jsonb/2.14.1.Final/quarkus-resteasy-jsonb-2.14.1.Final-sources.jar
+2022-11-22 05:26:41,069 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-resteasy-jsonb/2.14.1.Final/quarkus-resteasy-jsonb-2.14.1.Final-sources.jar
+2022-11-22 05:26:41,494 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.quarkus:quarkus-resteasy-jsonb:2.14.1.Final
+2022-11-22 05:26:42,150 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-resteasy/2.14.1.Final/quarkus-resteasy-2.14.1.Final-sources.jar
+2022-11-22 05:26:42,490 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-resteasy/2.14.1.Final/quarkus-resteasy-2.14.1.Final-sources.jar
+2022-11-22 05:26:43,457 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.quarkus:quarkus-resteasy:2.14.1.Final
+2022-11-22 05:26:44,099 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-resteasy-server-common/2.14.1.Final/quarkus-resteasy-server-common-2.14.1.Final-sources.jar
+2022-11-22 05:26:44,434 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-resteasy-server-common/2.14.1.Final/quarkus-resteasy-server-common-2.14.1.Final-sources.jar
+2022-11-22 05:26:44,847 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.quarkus:quarkus-resteasy-server-common:2.14.1.Final
+2022-11-22 05:26:45,508 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-jsonb/2.14.1.Final/quarkus-jsonb-2.14.1.Final-sources.jar
+2022-11-22 05:26:45,839 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-jsonb/2.14.1.Final/quarkus-jsonb-2.14.1.Final-sources.jar
+2022-11-22 05:26:46,421 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.quarkus:quarkus-jsonb:2.14.1.Final
+2022-11-22 05:26:47,072 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/yasson/1.0.11/yasson-1.0.11-sources.jar
+2022-11-22 05:26:47,748 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/yasson/1.0.11/yasson-1.0.11-sources.jar
+2022-11-22 05:26:49,089 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse:yasson:1.0.11
+2022-11-22 05:26:49,728 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/resteasy/resteasy-json-binding-provider/4.7.7.Final/resteasy-json-binding-provider-4.7.7.Final-sources.jar
+2022-11-22 05:26:50,057 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/resteasy/resteasy-json-binding-provider/4.7.7.Final/resteasy-json-binding-provider-4.7.7.Final-sources.jar
+2022-11-22 05:26:50,738 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jboss.resteasy:resteasy-json-binding-provider:4.7.7.Final
+2022-11-22 05:26:51,441 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/json/bind/jakarta.json.bind-api/1.0.2/jakarta.json.bind-api-1.0.2-sources.jar
+2022-11-22 05:26:51,788 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/json/bind/jakarta.json.bind-api/1.0.2/jakarta.json.bind-api-1.0.2-sources.jar
+2022-11-22 05:26:52,949 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.json.bind:jakarta.json.bind-api:1.0.2
+2022-11-22 05:26:53,616 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/resteasy/resteasy-json-p-provider/4.7.7.Final/resteasy-json-p-provider-4.7.7.Final-sources.jar
+2022-11-22 05:26:53,970 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/resteasy/resteasy-json-p-provider/4.7.7.Final/resteasy-json-p-provider-4.7.7.Final-sources.jar
+2022-11-22 05:26:54,360 [Worker-4: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jboss.resteasy:resteasy-json-p-provider:4.7.7.Final
+2022-11-22 05:26:56,285 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 05:26:56,285 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-22 05:26:56,286 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 05:26:56,286 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Google Drive\04 - Estudo\Alura\41-java-e-quarkus\bitcoin\src\test\resources
+2022-11-22 05:27:06,036 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 05:27:06,038 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-11-22 05:27:06,039 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 05:27:06,040 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Google Drive\04 - Estudo\Alura\41-java-e-quarkus\bitcoin\src\test\resources
+2022-11-22 05:28:54,210 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 05:28:54,211 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-11-22 05:28:54,212 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 05:28:54,213 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Google Drive\04 - Estudo\Alura\41-java-e-quarkus\bitcoin\src\test\resources
+2022-11-22 05:31:05,035 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 05:31:05,036 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-11-22 05:31:05,037 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 05:31:05,038 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Google Drive\04 - Estudo\Alura\41-java-e-quarkus\bitcoin\src\test\resources
+2022-11-22 05:31:56,706 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 05:31:56,707 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-11-22 05:31:56,709 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 05:31:56,709 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Google Drive\04 - Estudo\Alura\41-java-e-quarkus\bitcoin\src\test\resources
+2022-11-22 05:33:57,861 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 05:33:57,863 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-11-22 05:33:57,865 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 05:33:57,865 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Google Drive\04 - Estudo\Alura\41-java-e-quarkus\bitcoin\src\test\resources
+2022-11-22 05:34:54,743 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 05:34:54,744 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-11-22 05:34:54,745 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 05:34:54,745 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Google Drive\04 - Estudo\Alura\41-java-e-quarkus\bitcoin\src\test\resources
+2022-11-22 05:37:05,506 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 05:37:05,506 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-11-22 05:37:05,507 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 05:37:05,507 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Google Drive\04 - Estudo\Alura\41-java-e-quarkus\bitcoin\src\test\resources
+2022-11-22 05:38:35,103 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-11-22 05:38:36,463 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura:bitcoin:1.0.0-SNAPSHOT @ D:\Google Drive\04 - Estudo\Alura\41-java-e-quarkus\bitcoin\pom.xml.
+2022-11-22 05:38:40,235 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-rest-client-deployment/2.14.1.Final/quarkus-rest-client-deployment-2.14.1.Final.pom
+2022-11-22 05:38:40,586 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-rest-client-deployment/2.14.1.Final/quarkus-rest-client-deployment-2.14.1.Final.pom
+2022-11-22 05:38:40,763 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-resteasy-common-deployment/2.14.1.Final/quarkus-resteasy-common-deployment-2.14.1.Final.pom
+2022-11-22 05:38:40,937 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-resteasy-common-deployment/2.14.1.Final/quarkus-resteasy-common-deployment-2.14.1.Final.pom
+2022-11-22 05:38:41,112 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-resteasy-common-spi/2.14.1.Final/quarkus-resteasy-common-spi-2.14.1.Final.pom
+2022-11-22 05:38:41,291 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-resteasy-common-spi/2.14.1.Final/quarkus-resteasy-common-spi-2.14.1.Final.pom
+2022-11-22 05:38:41,467 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-apache-httpclient-deployment/2.14.1.Final/quarkus-apache-httpclient-deployment-2.14.1.Final.pom
+2022-11-22 05:38:41,667 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-apache-httpclient-deployment/2.14.1.Final/quarkus-apache-httpclient-deployment-2.14.1.Final.pom
+2022-11-22 05:38:41,843 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-rest-client-config-deployment/2.14.1.Final/quarkus-rest-client-config-deployment-2.14.1.Final.pom
+2022-11-22 05:38:42,020 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-rest-client-config-deployment/2.14.1.Final/quarkus-rest-client-config-deployment-2.14.1.Final.pom
+2022-11-22 05:38:42,198 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-resteasy-jsonb-deployment/2.14.1.Final/quarkus-resteasy-jsonb-deployment-2.14.1.Final.pom
+2022-11-22 05:38:42,377 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-resteasy-jsonb-deployment/2.14.1.Final/quarkus-resteasy-jsonb-deployment-2.14.1.Final.pom
+2022-11-22 05:38:42,553 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-resteasy-deployment/2.14.1.Final/quarkus-resteasy-deployment-2.14.1.Final.pom
+2022-11-22 05:38:42,739 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-resteasy-deployment/2.14.1.Final/quarkus-resteasy-deployment-2.14.1.Final.pom
+2022-11-22 05:38:43,025 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-resteasy-server-common-deployment/2.14.1.Final/quarkus-resteasy-server-common-deployment-2.14.1.Final.pom
+2022-11-22 05:38:43,209 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-resteasy-server-common-deployment/2.14.1.Final/quarkus-resteasy-server-common-deployment-2.14.1.Final.pom
+2022-11-22 05:38:43,388 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-resteasy-server-common-spi/2.14.1.Final/quarkus-resteasy-server-common-spi-2.14.1.Final.pom
+2022-11-22 05:38:43,573 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-resteasy-server-common-spi/2.14.1.Final/quarkus-resteasy-server-common-spi-2.14.1.Final.pom
+2022-11-22 05:38:43,753 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-undertow-spi/2.14.1.Final/quarkus-undertow-spi-2.14.1.Final.pom
+2022-11-22 05:38:44,186 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-undertow-spi/2.14.1.Final/quarkus-undertow-spi-2.14.1.Final.pom
+2022-11-22 05:38:44,361 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-http-parent/2.14.1.Final/quarkus-http-parent-2.14.1.Final.pom
+2022-11-22 05:38:44,545 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-http-parent/2.14.1.Final/quarkus-http-parent-2.14.1.Final.pom
+2022-11-22 05:38:44,726 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/http/quarkus-http-servlet/4.1.9/quarkus-http-servlet-4.1.9.pom
+2022-11-22 05:38:44,931 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/http/quarkus-http-servlet/4.1.9/quarkus-http-servlet-4.1.9.pom
+2022-11-22 05:38:45,108 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/http/quarkus-http-parent/4.1.9/quarkus-http-parent-4.1.9.pom
+2022-11-22 05:38:45,347 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/http/quarkus-http-parent/4.1.9/quarkus-http-parent-4.1.9.pom
+2022-11-22 05:38:45,519 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/28/jboss-parent-28.pom
+2022-11-22 05:38:45,739 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/28/jboss-parent-28.pom
+2022-11-22 05:38:45,913 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/http/quarkus-http-core/4.1.9/quarkus-http-core-4.1.9.pom
+2022-11-22 05:38:46,118 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/http/quarkus-http-core/4.1.9/quarkus-http-core-4.1.9.pom
+2022-11-22 05:38:46,296 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/http/quarkus-http-http-core/4.1.9/quarkus-http-http-core-4.1.9.pom
+2022-11-22 05:38:46,475 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/http/quarkus-http-http-core/4.1.9/quarkus-http-http-core-4.1.9.pom
+2022-11-22 05:38:46,669 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/servlet/jakarta.servlet-api/4.0.3/jakarta.servlet-api-4.0.3.pom
+2022-11-22 05:38:46,846 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/servlet/jakarta.servlet-api/4.0.3/jakarta.servlet-api-4.0.3.pom
+2022-11-22 05:38:47,031 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/metadata/jboss-metadata-web/15.2.0.Final/jboss-metadata-web-15.2.0.Final.pom
+2022-11-22 05:38:47,208 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/metadata/jboss-metadata-web/15.2.0.Final/jboss-metadata-web-15.2.0.Final.pom
+2022-11-22 05:38:47,407 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/metadata/jboss-as-parent-metadata/15.2.0.Final/jboss-as-parent-metadata-15.2.0.Final.pom
+2022-11-22 05:38:47,583 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/metadata/jboss-as-parent-metadata/15.2.0.Final/jboss-as-parent-metadata-15.2.0.Final.pom
+2022-11-22 05:38:47,761 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/metadata/jboss-metadata-common/15.2.0.Final/jboss-metadata-common-15.2.0.Final.pom
+2022-11-22 05:38:47,936 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/metadata/jboss-metadata-common/15.2.0.Final/jboss-metadata-common-15.2.0.Final.pom
+2022-11-22 05:38:48,111 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-jsonb-deployment/2.14.1.Final/quarkus-jsonb-deployment-2.14.1.Final.pom
+2022-11-22 05:38:48,286 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-jsonb-deployment/2.14.1.Final/quarkus-jsonb-deployment-2.14.1.Final.pom
+2022-11-22 05:38:48,460 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-jsonb-spi/2.14.1.Final/quarkus-jsonb-spi-2.14.1.Final.pom
+2022-11-22 05:38:48,634 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-jsonb-spi/2.14.1.Final/quarkus-jsonb-spi-2.14.1.Final.pom
+2022-11-22 05:38:48,850 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-resteasy-common-spi/2.14.1.Final/quarkus-resteasy-common-spi-2.14.1.Final.jar
+2022-11-22 05:38:49,022 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-resteasy-common-spi/2.14.1.Final/quarkus-resteasy-common-spi-2.14.1.Final.jar
+2022-11-22 05:38:50,441 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-resteasy-common-deployment/2.14.1.Final/quarkus-resteasy-common-deployment-2.14.1.Final.jar
+2022-11-22 05:38:50,619 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-resteasy-common-deployment/2.14.1.Final/quarkus-resteasy-common-deployment-2.14.1.Final.jar
+2022-11-22 05:38:51,482 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-apache-httpclient-deployment/2.14.1.Final/quarkus-apache-httpclient-deployment-2.14.1.Final.jar
+2022-11-22 05:38:51,660 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-apache-httpclient-deployment/2.14.1.Final/quarkus-apache-httpclient-deployment-2.14.1.Final.jar
+2022-11-22 05:38:52,182 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-rest-client-config-deployment/2.14.1.Final/quarkus-rest-client-config-deployment-2.14.1.Final.jar
+2022-11-22 05:38:52,354 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-rest-client-config-deployment/2.14.1.Final/quarkus-rest-client-config-deployment-2.14.1.Final.jar
+2022-11-22 05:38:52,931 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-rest-client-deployment/2.14.1.Final/quarkus-rest-client-deployment-2.14.1.Final.jar
+2022-11-22 05:38:53,124 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-rest-client-deployment/2.14.1.Final/quarkus-rest-client-deployment-2.14.1.Final.jar
+2022-11-22 05:38:53,819 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-resteasy-server-common-spi/2.14.1.Final/quarkus-resteasy-server-common-spi-2.14.1.Final.jar
+2022-11-22 05:38:53,997 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-resteasy-server-common-spi/2.14.1.Final/quarkus-resteasy-server-common-spi-2.14.1.Final.jar
+2022-11-22 05:38:54,728 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/http/quarkus-http-http-core/4.1.9/quarkus-http-http-core-4.1.9.jar
+2022-11-22 05:38:54,926 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/http/quarkus-http-http-core/4.1.9/quarkus-http-http-core-4.1.9.jar
+2022-11-22 05:38:55,877 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/http/quarkus-http-core/4.1.9/quarkus-http-core-4.1.9.jar
+2022-11-22 05:38:56,662 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/http/quarkus-http-core/4.1.9/quarkus-http-core-4.1.9.jar
+2022-11-22 05:38:58,165 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/http/quarkus-http-servlet/4.1.9/quarkus-http-servlet-4.1.9.jar
+2022-11-22 05:38:58,387 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/http/quarkus-http-servlet/4.1.9/quarkus-http-servlet-4.1.9.jar
+2022-11-22 05:38:59,892 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/servlet/jakarta.servlet-api/4.0.3/jakarta.servlet-api-4.0.3.jar
+2022-11-22 05:39:00,077 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/servlet/jakarta.servlet-api/4.0.3/jakarta.servlet-api-4.0.3.jar
+2022-11-22 05:39:01,451 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/metadata/jboss-metadata-common/15.2.0.Final/jboss-metadata-common-15.2.0.Final.jar
+2022-11-22 05:39:01,675 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/metadata/jboss-metadata-common/15.2.0.Final/jboss-metadata-common-15.2.0.Final.jar
+2022-11-22 05:39:03,387 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/metadata/jboss-metadata-web/15.2.0.Final/jboss-metadata-web-15.2.0.Final.jar
+2022-11-22 05:39:03,613 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/metadata/jboss-metadata-web/15.2.0.Final/jboss-metadata-web-15.2.0.Final.jar
+2022-11-22 05:39:05,067 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-undertow-spi/2.14.1.Final/quarkus-undertow-spi-2.14.1.Final.jar
+2022-11-22 05:39:05,241 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-undertow-spi/2.14.1.Final/quarkus-undertow-spi-2.14.1.Final.jar
+2022-11-22 05:39:06,338 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-resteasy-server-common-deployment/2.14.1.Final/quarkus-resteasy-server-common-deployment-2.14.1.Final.jar
+2022-11-22 05:39:06,516 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-resteasy-server-common-deployment/2.14.1.Final/quarkus-resteasy-server-common-deployment-2.14.1.Final.jar
+2022-11-22 05:39:07,266 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-resteasy-deployment/2.14.1.Final/quarkus-resteasy-deployment-2.14.1.Final.jar
+2022-11-22 05:39:07,440 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-resteasy-deployment/2.14.1.Final/quarkus-resteasy-deployment-2.14.1.Final.jar
+2022-11-22 05:39:08,015 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-jsonb-spi/2.14.1.Final/quarkus-jsonb-spi-2.14.1.Final.jar
+2022-11-22 05:39:08,192 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-jsonb-spi/2.14.1.Final/quarkus-jsonb-spi-2.14.1.Final.jar
+2022-11-22 05:39:08,731 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-jsonb-deployment/2.14.1.Final/quarkus-jsonb-deployment-2.14.1.Final.jar
+2022-11-22 05:39:08,916 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-jsonb-deployment/2.14.1.Final/quarkus-jsonb-deployment-2.14.1.Final.jar
+2022-11-22 05:39:09,669 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/quarkus/quarkus-resteasy-jsonb-deployment/2.14.1.Final/quarkus-resteasy-jsonb-deployment-2.14.1.Final.jar
+2022-11-22 05:39:09,854 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/quarkus/quarkus-resteasy-jsonb-deployment/2.14.1.Final/quarkus-resteasy-jsonb-deployment-2.14.1.Final.jar
+2022-11-22 05:39:10,918 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bitcoin/src/main/java
+2022-11-22 05:39:10,919 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bitcoin/src/main/resources
+2022-11-22 05:39:10,920 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bitcoin/src/test/java
+2022-11-22 05:39:12,623 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 37 sec
+2022-11-22 05:39:13,901 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 05:39:13,902 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-11-22 05:39:15,964 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 05:39:15,964 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Google Drive\04 - Estudo\Alura\41-java-e-quarkus\bitcoin\src\test\resources
+2022-11-22 05:46:22,902 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 05:46:22,904 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-11-22 05:46:22,906 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 05:46:22,906 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Google Drive\04 - Estudo\Alura\41-java-e-quarkus\bitcoin\src\test\resources
+2022-11-22 09:36:45,203 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 09:36:45,208 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-11-22 09:36:45,210 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 09:36:45,211 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Google Drive\04 - Estudo\Alura\41-java-e-quarkus\bitcoin\src\test\resources
+2022-11-22 15:01:08,847 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-22 15:02:49,408 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 15:02:49,415 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-11-22 15:02:49,420 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 15:02:49,421 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Google Drive\04 - Estudo\Alura\41-java-e-quarkus\bitcoin\src\test\resources
+2022-11-22 15:17:53,963 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 15:17:53,966 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-11-22 15:17:53,966 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 15:17:53,966 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Google Drive\04 - Estudo\Alura\41-java-e-quarkus\bitcoin\src\test\resources
+2022-11-22 15:17:54,982 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 15:17:54,987 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-11-22 15:17:54,987 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 15:17:54,987 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Google Drive\04 - Estudo\Alura\41-java-e-quarkus\bitcoin\src\test\resources
+2022-11-22 15:24:48,051 [Worker-23: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-11-22 15:24:49,787 [Worker-23: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura:bitcoin:1.0.0-SNAPSHOT @ D:\Google Drive\04 - Estudo\Alura\41-java-e-quarkus\bitcoin\pom.xml.
+2022-11-22 15:24:53,555 [Worker-23: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bitcoin/src/main/java
+2022-11-22 15:24:53,556 [Worker-23: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bitcoin/src/main/resources
+2022-11-22 15:24:53,556 [Worker-23: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bitcoin/src/test/java
+2022-11-22 15:24:55,372 [Worker-23: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 7 sec
+2022-11-22 15:24:57,031 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 15:24:57,031 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-11-22 15:24:58,595 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 15:24:58,595 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Google Drive\04 - Estudo\Alura\41-java-e-quarkus\bitcoin\src\test\resources
+2022-11-22 15:36:05,692 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-22 15:38:19,680 [Worker-19: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura:bitcoin:1.0.0-SNAPSHOT @ D:\Google Drive\04 - Estudo\Alura\41-java-e-quarkus\bitcoin\pom.xml.
+2022-11-22 15:38:21,293 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 15:38:21,297 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-11-22 15:38:21,304 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 15:38:21,304 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Google Drive\04 - Estudo\Alura\41-java-e-quarkus\bitcoin\src\test\resources
+2022-11-22 15:38:51,223 [Worker-19: reload maven project] ERROR o.e.m2e.editor.pom.MavenPomEditor - failed to load maven project for org.eclipse.ui.part.FileEditorInput(/bitcoin/pom.xml)
+org.eclipse.core.runtime.CoreException: Could not read maven project
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:850)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$22(ProjectRegistryManager.java:1070)
+	at com.google.common.cache.LocalCache$LocalManualCache$1.load(LocalCache.java:4878)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3529)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2278)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2155)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2045)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:3953)
+	at com.google.common.cache.LocalCache$LocalManualCache.get(LocalCache.java:4873)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1069)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:251)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:260)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:632)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$3.run(MavenPomEditor.java:936)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-11-22 15:38:51,334 [Worker-19: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:560)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:562)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:518)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:364)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:315)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:151)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:89)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:88)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:197)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:846)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:229)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:277)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:330)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:333)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:385)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:406)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: Unrecognised tag: 'project' (position: START_TAG seen ...g/POM/4.0.0"xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">... @3:205) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:117)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:85)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:558)
+	... 23 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Unrecognised tag: 'project' (position: START_TAG seen ...g/POM/4.0.0"xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">... @3:205) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkUnknownElement(MavenXpp3Reader.java:178)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2309)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3872)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:112)
+	... 25 common frames omitted
+2022-11-22 15:38:52,743 [Worker-19: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:560)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:562)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:518)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:364)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:315)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:151)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:89)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:88)
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:197)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:846)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:229)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:277)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:330)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:333)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:385)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:406)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.model.io.ModelParseException: Unrecognised tag: 'project' (position: START_TAG seen ...g/POM/4.0.0"xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">... @3:205) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:117)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:85)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:558)
+	... 23 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Unrecognised tag: 'project' (position: START_TAG seen ...g/POM/4.0.0"xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">... @3:205) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkUnknownElement(MavenXpp3Reader.java:178)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2309)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3872)
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595)
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:112)
+	... 25 common frames omitted
+2022-11-22 15:39:16,172 [Worker-19: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura:bitcoin:1.0.0-SNAPSHOT @ D:\Google Drive\04 - Estudo\Alura\41-java-e-quarkus\bitcoin\pom.xml.
+2022-11-22 15:39:17,944 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 15:39:17,946 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-22 15:39:17,949 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 15:39:17,949 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Google Drive\04 - Estudo\Alura\41-java-e-quarkus\bitcoin\src\test\resources
+2022-11-22 15:39:20,632 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 15:39:20,634 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-11-22 15:39:20,697 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 15:39:20,698 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Google Drive\04 - Estudo\Alura\41-java-e-quarkus\bitcoin\src\test\resources
+2022-11-22 15:39:46,452 [Worker-22: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura:bitcoin:1.0.0-SNAPSHOT @ D:\Google Drive\04 - Estudo\Alura\41-java-e-quarkus\bitcoin\pom.xml.
+2022-11-22 15:39:47,889 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 15:39:47,891 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-22 15:39:47,892 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 15:39:47,892 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Google Drive\04 - Estudo\Alura\41-java-e-quarkus\bitcoin\src\test\resources
+2022-11-22 15:43:14,066 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-11-22 15:43:15,430 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura:bitcoin:1.0.0-SNAPSHOT @ D:\Google Drive\04 - Estudo\Alura\41-java-e-quarkus\bitcoin\pom.xml.
+2022-11-22 15:43:18,773 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bitcoin/src/main/java
+2022-11-22 15:43:18,773 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bitcoin/src/main/resources
+2022-11-22 15:43:18,774 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bitcoin/src/test/java
+2022-11-22 15:43:20,136 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 6 sec
+2022-11-22 15:43:21,142 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 15:43:21,142 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-11-22 15:43:22,644 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 15:43:22,644 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Google Drive\04 - Estudo\Alura\41-java-e-quarkus\bitcoin\src\test\resources
+2022-11-22 15:44:28,468 [Worker-29: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura:bitcoin:1.0.0-SNAPSHOT @ D:\Google Drive\04 - Estudo\Alura\41-java-e-quarkus\bitcoin\pom.xml.
+2022-11-22 15:44:29,769 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 15:44:29,770 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-22 15:44:29,771 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 15:44:29,771 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Google Drive\04 - Estudo\Alura\41-java-e-quarkus\bitcoin\src\test\resources
+2022-11-22 15:53:51,071 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 15:53:51,072 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-11-22 15:53:51,075 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 15:53:51,075 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Google Drive\04 - Estudo\Alura\41-java-e-quarkus\bitcoin\src\test\resources
+2022-11-22 15:56:59,711 [Worker-31: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura:bitcoin:1.0.0-SNAPSHOT @ D:\Google Drive\04 - Estudo\Alura\41-java-e-quarkus\bitcoin\pom.xml.
+2022-11-22 15:57:01,062 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 15:57:01,063 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-22 15:57:01,065 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-22 15:57:01,065 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Google Drive\04 - Estudo\Alura\41-java-e-quarkus\bitcoin\src\test\resources
+2022-11-23 05:30:33,818 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-11-23 05:58:22,975 [Worker-23: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura:bitcoin:1.0.0-SNAPSHOT @ D:\Google Drive\04 - Estudo\Alura\41-java-e-quarkus\bitcoin\pom.xml.
+2022-11-23 05:58:25,886 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 05:58:25,892 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-11-23 05:58:25,900 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 05:58:25,900 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Google Drive\04 - Estudo\Alura\41-java-e-quarkus\bitcoin\src\test\resources
+2022-11-23 05:58:29,203 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 05:58:29,207 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-11-23 05:58:29,214 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-11-23 05:58:29,214 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Google Drive\04 - Estudo\Alura\41-java-e-quarkus\bitcoin\src\test\resources
