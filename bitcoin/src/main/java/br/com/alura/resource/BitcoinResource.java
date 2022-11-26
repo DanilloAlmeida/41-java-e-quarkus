@@ -13,7 +13,7 @@ import org.eclipse.microprofile.rest.client.inject.RestClient;
 import br.com.alura.model.Bitcoin;
 import br.com.alura.service.BitcoinService;
 
-@Path("bitcoins")
+@Path("/bitcoins")
 public class BitcoinResource {
 	
 	@Inject
