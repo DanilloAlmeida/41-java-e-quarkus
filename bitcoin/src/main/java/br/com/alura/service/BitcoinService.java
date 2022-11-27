@@ -10,11 +10,10 @@ import org.eclipse.microprofile.rest.client.inject.RegisterRestClient;
 import br.com.alura.model.Bitcoin;
 
 @Path("/bitcoins")
-@RegisterRestClient
+@RegisterRestClient(configKey="bitcoin-api")
 public interface BitcoinService {
 	
 	@GET
 	@Produces(MediaType.APPLICATION_JSON)
-	public List<Bitcoin> listar(); 
-
+	public List<Bitcoin> listar();
 }

@@ -7,6 +7,7 @@ public class Bitcoin {
 	private Double preco;
 	private String tipo;
 	private LocalDate data;
+	
 	public Long getId() {
 		return id;
 	}
